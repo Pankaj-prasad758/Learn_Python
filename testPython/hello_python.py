@@ -1,6 +1,10 @@
 print("hello python")
 
-def sum(p):
+def coffee(p):
     print(p)
 
-sum(6)    
+coffee("black coffee")    
+
+coffee_one = "plain coffee"
+coffee_two = "milk coffee"
+coffee_three = "cream coffee"

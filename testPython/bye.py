@@ -1,3 +1,3 @@
-from hello_python import sum
+from hello_python import coffee
 
-sum("cool-day")
+coffee("cool-day")
